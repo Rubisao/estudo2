@@ -46,4 +46,4 @@ function movimentoAtor(){
   }
   if (keyIsDown(DOWN_ARROW))
     yAtor += 3;
-}
+  }
