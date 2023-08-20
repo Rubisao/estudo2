@@ -1,6 +1,6 @@
 let yCarros = [40, 96, 150]
 let velocidadeCarros = [3, 4, 5];
-let xCarros = [600, 600, 600]
+let xCarros = [600, 600, 600];
 
 function mostraCarro(){
   for ( let i = 0; i < imagemCarros.length; i = i + 1){
