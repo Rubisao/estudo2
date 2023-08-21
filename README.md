@@ -1,2 +1,1 @@
-# estudo2
-Atravessar Rua
+Jogo desenvolvido em estudos na plataforma Alura.
